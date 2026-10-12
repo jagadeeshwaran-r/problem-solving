@@ -41,10 +41,10 @@ public class P0217_ContainsDuplicate {
 
         // Pre-size the HashSet to reduce resizing for mostly unique elements.
         int capacity = (int) (nums.length / 0.75f) + 1;
-        Set<Integer> set = new HashSet<>(capacity);
+        Set<Integer> seen = new HashSet<>(capacity);
 
         for (int num : nums) {
-            if (!set.add(num)) {
+            if (!seen.add(num)) {
                 return true;
             }
         }
