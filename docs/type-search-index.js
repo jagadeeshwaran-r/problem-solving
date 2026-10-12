@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"easy","l":"P0217_ContainsDuplicate"},{"p":"<Unnamed>","l":"Scratchpad"},{"p":"common","l":"Technique","k":"9"}];updateSearchResults();

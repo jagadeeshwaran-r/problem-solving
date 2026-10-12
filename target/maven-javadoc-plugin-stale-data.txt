@@ -1,0 +1,52 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+@argfile
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'/home/jagdesh/IdeaProjects/problem-solving/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'problem-solving 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'problem-solving 1.0-SNAPSHOT API'
+common
+easy
+'/home/jagdesh/IdeaProjects/problem-solving/src/main/java/Scratchpad.java'
+/home/jagdesh/IdeaProjects/problem-solving/src/main/java/Scratchpad.java = 1791819246970
+/home/jagdesh/IdeaProjects/problem-solving/src/main/java = 1791819247016
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/Scratchpad.html = 1791821765601
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/element-list = 1791821765673
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/package-summary.html = 1791821765683
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/package-tree.html = 1791821765689
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/package-use.html = 1791821765738
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/overview-tree.html = 1791821765750
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/index.html = 1791821765755
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/allclasses-index.html = 1791821765774
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/allpackages-index.html = 1791821765777
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/module-search-index.js = 1791821765778
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/package-search-index.js = 1791821765779
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/type-search-index.js = 1791821765779
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/member-search-index.js = 1791821765780
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/tag-search-index.js = 1791821765780
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/index-all.html = 1791821765799
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/search.html = 1791821765802
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/overview-summary.html = 1791821765804
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/help-doc.html = 1791821765810
+/home/jagdesh/IdeaProjects/problem-solving/target/reports/apidocs/javadoc.sh = 1791821458211
